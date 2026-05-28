@@ -1,6 +1,6 @@
 ### Olá, meu nome é Rafael Dhuany!
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=oVacilo&color=6f5cc2&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+<img src="https://img.shields.io/static/v1?label=Overview&message=Rafael Dhuany&color=6f5cc2&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
 <p>Desenvolvedor Web • HTML5, CSS3, JavaScript, PHP e MYSQL.</p>
 
