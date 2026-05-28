@@ -1,4 +1,4 @@
-# 👋 E aí, eu sou o Rafinha 
+# 👋 Oi, eu sou o Rafinha 
 
 💻 Programador PHP  
 🚀 Criando projetos pessoais  
