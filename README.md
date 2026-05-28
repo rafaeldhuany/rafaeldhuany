@@ -1,14 +1,15 @@
-<h1 align="center">Olá 👋, Sou o Rafael Dhuany</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+### Olá, meu nome é Rafael Dhuany!
 
-![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
+<img src="https://img.shields.io/static/v1?label=Overview&message=oVacilo&color=6f5cc2&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+
+<p>Desenvolvedor Web • HTML5, CSS3, JavaScript, PHP e MYSQL.</p>
 
 ## Sobre mim
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando {seu curso} no {faculdade}.
-- 💼 Trabalhando como {stack em que você trabalhar} na {empresa}.
-- 🌱 Aprendendo mais sobre {tecnologias que você está aprendendo}.
+- 💻 Programador PHP
+- 🎓 Estudando Analise e Desenvolvimento de Sistemas no Descomplica.
+- 💼 Trabalhando como Auxiliar Administrativo.
+- 🎮 Veterano de CS desde 2016.
 
 ## Minhas Skills
 
