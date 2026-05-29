@@ -2,8 +2,6 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=Rafael%20Dhuany&color=6f5cc2&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-<p>Desenvolvedor Web • HTML5, CSS3, JavaScript, PHP e MYSQL.</p>
-
 ## Sobre mim
 
 - 💻 Programador PHP
