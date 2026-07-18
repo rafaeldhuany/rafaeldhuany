@@ -6,7 +6,6 @@
 
 - 💻 Programador PHP
 - 🎓 Estudando Analise e Desenvolvimento de Sistemas no Descomplica.
-- 💼 Trabalhando como Auxiliar Administrativo.
 - 🎮 Veterano de CS desde 2016.
 
 ## Minhas Skills
